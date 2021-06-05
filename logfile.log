@@ -11945,3 +11945,391 @@ Session ID: bb765f1d5565903ce2a6c9bda6446739
 2021-06-05 10:43:25,706 INFO  [TestActions] Locator in get object method = By.xpath: (//span[@class='radio-button__outer'])[2] 
 2021-06-05 10:43:25,724 INFO  [TestActions] Able to find the element for BY = By.xpath: (//span[@class='radio-button__outer'])[2] 
 2021-06-05 10:43:25,793 INFO  [TestActions] Clicked on Xpath;(//span[@class='radio-button__outer'])[2] in Sealand regional-selection Success 
+2021-06-05 15:48:59,845 INFO  [TestRunner] iTotalTestCases 116 
+2021-06-05 15:48:59,860 INFO  [TestRunner] Executing all test cases  
+2021-06-05 15:48:59,873 ERROR [TestRunner] Class Utils | Method getCellData | Exception desc : null 
+2021-06-05 15:48:59,873 ERROR [TestRunner] Class Utils | Method getCellData | Exception desc : null 
+2021-06-05 15:48:59,873 ERROR [TestRunner] Class Utils | Method getCellData | Exception desc : null 
+2021-06-05 15:48:59,873 ERROR [TestRunner] Class Utils | Method getCellData | Exception desc : null 
+2021-06-05 15:48:59,874 INFO  [TestRunner] RunMode for test case TC_1000 is Yes 
+2021-06-05 15:48:59,879 INFO  [TestRunner] **************************************************************************************** 
+2021-06-05 15:48:59,879 INFO  [TestRunner] **************************************************************************************** 
+2021-06-05 15:48:59,880 INFO  [TestRunner] -------------------------- TC_1000--------------------------- 
+2021-06-05 15:48:59,880 INFO  [TestRunner] **************************************************************************************** 
+2021-06-05 15:48:59,880 INFO  [TestRunner] **************************************************************************************** 
+2021-06-05 15:48:59,881 INFO  [TestRunner] Executing Yes run mode test case TC_1000 
+2021-06-05 15:48:59,913 INFO  [TestRunner] iTestStep 2631 
+2021-06-05 15:48:59,913 INFO  [TestRunner] iTestLastStep 30 
+2021-06-05 15:48:59,913 INFO  [TestActions] Opening Browser 
+2021-06-05 15:49:08,306 INFO  [TestActions] Opening Browser Success 
+2021-06-05 15:49:08,306 INFO  [TestRunner] Executing TestStep 2631 
+2021-06-05 15:49:08,360 INFO  [TestActions] Before goToURL in Login 
+2021-06-05 15:49:27,594 INFO  [TestActions] Locator Property=Xpath;//*[@id="usernameInput"] 
+2021-06-05 15:49:27,595 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:49:27,595 INFO  [TestActions] locatorValue = //*[@id="usernameInput"] 
+2021-06-05 15:49:27,595 INFO  [TestActions] locator = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:49:27,595 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:49:27,628 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:49:27,628 INFO  [TestActions] Waiting for the Element to visible... 
+2021-06-05 15:49:27,628 INFO  [TestActions] Locator Property=Xpath;//*[@id="usernameInput"] 
+2021-06-05 15:49:27,628 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:49:27,628 INFO  [TestActions] locatorValue = //*[@id="usernameInput"] 
+2021-06-05 15:49:27,628 INFO  [TestActions] locator = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:49:27,628 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:49:27,644 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:49:27,668 INFO  [TestActions] Entering the text in txtbx_UsernameLogin in Login  
+2021-06-05 15:49:27,668 INFO  [TestActions] Waiting for the Element to visible... 
+2021-06-05 15:49:27,668 INFO  [TestActions] Locator Property=Xpath;//*[@id="usernameInput"] 
+2021-06-05 15:49:27,668 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:49:27,668 INFO  [TestActions] locatorValue = //*[@id="usernameInput"] 
+2021-06-05 15:49:27,668 INFO  [TestActions] locator = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:49:27,668 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:49:27,695 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:49:27,706 INFO  [TestActions] Locator Property=Xpath;//*[@id="usernameInput"] 
+2021-06-05 15:49:27,706 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:49:27,707 INFO  [TestActions] locatorValue = //*[@id="usernameInput"] 
+2021-06-05 15:49:27,707 INFO  [TestActions] locator = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:49:27,707 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:49:27,724 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:49:27,724 INFO  [TestActions] element found for  txtbx_UsernameLogin 
+2021-06-05 15:49:27,724 INFO  [TestActions] Element Found. Entering value of txtbx_UsernameLogin i= SMU262 
+2021-06-05 15:49:27,724 INFO  [TestActions] Locator Property=Xpath;//*[@id="usernameInput"] 
+2021-06-05 15:49:27,724 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:49:27,724 INFO  [TestActions] locatorValue = //*[@id="usernameInput"] 
+2021-06-05 15:49:27,724 INFO  [TestActions] locator = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:49:27,724 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:49:27,739 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:49:28,853 INFO  [TestActions] Entered SMU262 value in txtbx_UsernameLogin 
+2021-06-05 15:49:28,853 INFO  [TestActions] Locator Property=Xpath;//input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:49:28,853 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:49:28,853 INFO  [TestActions] locatorValue = //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:49:28,853 INFO  [TestActions] locator = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:49:28,853 INFO  [TestActions] Locator in get object method = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:49:28,886 INFO  [TestActions] Able to find the element for BY = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:49:28,886 INFO  [TestActions] Waiting for the Element to visible... 
+2021-06-05 15:49:28,886 INFO  [TestActions] Locator Property=Xpath;//input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:49:28,886 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:49:28,886 INFO  [TestActions] locatorValue = //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:49:28,886 INFO  [TestActions] locator = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:49:28,886 INFO  [TestActions] Locator in get object method = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:49:28,909 INFO  [TestActions] Able to find the element for BY = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:49:28,941 INFO  [TestActions] Entering the text in txtbx_PasswordLogin in Login 
+2021-06-05 15:49:28,941 INFO  [TestActions] Waiting for the Element to visible... 
+2021-06-05 15:49:28,942 INFO  [TestActions] Locator Property=Xpath;//input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:49:28,942 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:49:28,942 INFO  [TestActions] locatorValue = //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:49:28,942 INFO  [TestActions] locator = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:49:28,942 INFO  [TestActions] Locator in get object method = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:49:28,956 INFO  [TestActions] Able to find the element for BY = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:49:28,971 INFO  [TestActions] Locator Property=Xpath;//input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:49:28,972 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:49:28,972 INFO  [TestActions] locatorValue = //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:49:28,972 INFO  [TestActions] locator = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:49:28,972 INFO  [TestActions] Locator in get object method = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:49:28,986 INFO  [TestActions] Able to find the element for BY = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:49:28,987 INFO  [TestActions] element found for  txtbx_PasswordLogin 
+2021-06-05 15:49:28,987 INFO  [TestActions] Element Found. Entering value of txtbx_PasswordLogin i= Maersk#2 
+2021-06-05 15:49:28,987 INFO  [TestActions] Locator Property=Xpath;//input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:49:28,987 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:49:28,987 INFO  [TestActions] locatorValue = //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:49:28,987 INFO  [TestActions] locator = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:49:28,987 INFO  [TestActions] Locator in get object method = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:49:29,002 INFO  [TestActions] Able to find the element for BY = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:49:30,118 INFO  [TestActions] Entered Maersk#2 value in txtbx_PasswordLogin 
+2021-06-05 15:49:30,118 INFO  [TestActions] Clicking on btn_Login_PP in Login 
+2021-06-05 15:49:30,118 INFO  [TestActions] Waiting for the Element to visible... 
+2021-06-05 15:49:30,118 INFO  [TestActions] Locator Property=Xpath;//*[@id="login-form"]/button 
+2021-06-05 15:49:30,118 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:49:30,118 INFO  [TestActions] locatorValue = //*[@id="login-form"]/button 
+2021-06-05 15:49:30,118 INFO  [TestActions] locator = By.xpath: //*[@id="login-form"]/button 
+2021-06-05 15:49:30,118 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id="login-form"]/button 
+2021-06-05 15:49:30,151 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id="login-form"]/button 
+2021-06-05 15:49:30,184 INFO  [TestActions] Locator Property=Xpath;//*[@id="login-form"]/button 
+2021-06-05 15:49:30,185 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:49:30,185 INFO  [TestActions] locatorValue = //*[@id="login-form"]/button 
+2021-06-05 15:49:30,185 INFO  [TestActions] locator = By.xpath: //*[@id="login-form"]/button 
+2021-06-05 15:49:30,185 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id="login-form"]/button 
+2021-06-05 15:49:30,205 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id="login-form"]/button 
+2021-06-05 15:49:30,277 INFO  [TestActions] Clicked on btn_Login_PP in Login Success 
+2021-06-05 15:49:32,278 INFO  [TestActions] Waiting for the Element to visible... 
+2021-06-05 15:49:32,278 INFO  [TestActions] Locator Property=Xpath;//*[@id='customerCode'] 
+2021-06-05 15:49:32,278 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:49:32,278 INFO  [TestActions] locatorValue = //*[@id='customerCode'] 
+2021-06-05 15:49:32,278 INFO  [TestActions] locator = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:49:32,278 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:49:34,063 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:49:34,108 INFO  [TestActions] Locator Property=Xpath;//*[@id='customerCode'] 
+2021-06-05 15:49:34,108 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:49:34,108 INFO  [TestActions] locatorValue = //*[@id='customerCode'] 
+2021-06-05 15:49:34,108 INFO  [TestActions] locator = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:49:34,108 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:49:34,130 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:49:34,131 INFO  [TestActions] Waiting for the Element to visible... 
+2021-06-05 15:49:34,131 INFO  [TestActions] Locator Property=Xpath;//*[@id='customerCode'] 
+2021-06-05 15:49:34,131 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:49:34,131 INFO  [TestActions] locatorValue = //*[@id='customerCode'] 
+2021-06-05 15:49:34,131 INFO  [TestActions] locator = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:49:34,131 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:49:34,142 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:49:34,158 INFO  [TestActions] Entering the text in txtbx_Code in Login 
+2021-06-05 15:49:34,158 INFO  [TestActions] Waiting for the Element to visible... 
+2021-06-05 15:49:34,159 INFO  [TestActions] Locator Property=Xpath;//*[@id='customerCode'] 
+2021-06-05 15:49:34,159 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:49:34,159 INFO  [TestActions] locatorValue = //*[@id='customerCode'] 
+2021-06-05 15:49:34,159 INFO  [TestActions] locator = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:49:34,159 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:49:34,175 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:49:34,190 INFO  [TestActions] Locator Property=Xpath;//*[@id='customerCode'] 
+2021-06-05 15:49:34,190 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:49:34,190 INFO  [TestActions] locatorValue = //*[@id='customerCode'] 
+2021-06-05 15:49:34,190 INFO  [TestActions] locator = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:49:34,190 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:49:34,206 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:49:34,206 INFO  [TestActions] element found for  txtbx_Code 
+2021-06-05 15:49:34,207 INFO  [TestActions] Element Found. Entering value of txtbx_Code i= 10000007951 
+2021-06-05 15:49:34,207 INFO  [TestActions] Locator Property=Xpath;//*[@id='customerCode'] 
+2021-06-05 15:49:34,207 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:49:34,207 INFO  [TestActions] locatorValue = //*[@id='customerCode'] 
+2021-06-05 15:49:34,207 INFO  [TestActions] locator = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:49:34,207 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:49:34,222 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:49:35,396 INFO  [TestActions] Entered 10000007951 value in txtbx_Code 
+2021-06-05 15:49:35,396 INFO  [TestActions] Clicking on Maersk_SSP_btn_Submit_PP in Login 
+2021-06-05 15:49:35,396 INFO  [TestActions] Waiting for the Element to visible... 
+2021-06-05 15:49:35,396 INFO  [TestActions] Locator Property=Xpath;//*[@id='set-customer-code-form']/button 
+2021-06-05 15:49:35,396 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:49:35,396 INFO  [TestActions] locatorValue = //*[@id='set-customer-code-form']/button 
+2021-06-05 15:49:35,396 INFO  [TestActions] locator = By.xpath: //*[@id='set-customer-code-form']/button 
+2021-06-05 15:49:35,396 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id='set-customer-code-form']/button 
+2021-06-05 15:49:35,452 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id='set-customer-code-form']/button 
+2021-06-05 15:49:35,484 INFO  [TestActions] Locator Property=Xpath;//*[@id='set-customer-code-form']/button 
+2021-06-05 15:49:35,485 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:49:35,485 INFO  [TestActions] locatorValue = //*[@id='set-customer-code-form']/button 
+2021-06-05 15:49:35,485 INFO  [TestActions] locator = By.xpath: //*[@id='set-customer-code-form']/button 
+2021-06-05 15:49:35,485 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id='set-customer-code-form']/button 
+2021-06-05 15:49:35,496 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id='set-customer-code-form']/button 
+2021-06-05 15:49:35,548 INFO  [TestActions] Clicked on Maersk_SSP_btn_Submit_PP in Login Success 
+2021-06-05 15:49:45,550 INFO  [TestActions] Before Verifying  in  
+2021-06-05 15:49:45,780 INFO  [TestRunner] Login to the  MYML with valid credentials Passed 
+2021-06-05 15:49:47,603 INFO  [TestRunner] Executing TestStep 2632 
+2021-06-05 15:49:47,606 INFO  [TestActions] Locator Property=Xpath;(//*[@class="ign-header__container"])//div[2] 
+2021-06-05 15:49:47,607 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:49:47,607 INFO  [TestActions] locatorValue = (//*[@class="ign-header__container"])//div[2] 
+2021-06-05 15:49:47,607 INFO  [TestActions] locator = By.xpath: (//*[@class="ign-header__container"])//div[2] 
+2021-06-05 15:49:47,607 INFO  [TestActions] Locator in get object method = By.xpath: (//*[@class="ign-header__container"])//div[2] 
+2021-06-05 15:49:47,736 INFO  [TestActions] Able to find the element for BY = By.xpath: (//*[@class="ign-header__container"])//div[2] 
+2021-06-05 15:49:47,736 INFO  [TestActions] Locator Property=Xpath;//*[ @class='ign-header__menu__link  ign-track' and contains(text(),'New booking')] 
+2021-06-05 15:49:47,736 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:49:47,736 INFO  [TestActions] locatorValue = //*[ @class='ign-header__menu__link  ign-track' and contains(text(),'New booking')] 
+2021-06-05 15:49:47,736 INFO  [TestActions] locator = By.xpath: //*[ @class='ign-header__menu__link  ign-track' and contains(text(),'New booking')] 
+2021-06-05 15:49:47,736 INFO  [TestActions] Locator in get object method = By.xpath: //*[ @class='ign-header__menu__link  ign-track' and contains(text(),'New booking')] 
+2021-06-05 15:49:47,799 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[ @class='ign-header__menu__link  ign-track' and contains(text(),'New booking')] 
+2021-06-05 15:49:52,986 ERROR [TestActions] Not able to click. Exception =  element not visible
+  (Session info: chrome=91.0.4472.77)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.19041 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 58 milliseconds
+Build info: version: '3.0.0', revision: '350cf60', time: '2016-10-13 10:48:57 -0700'
+System info: host: 'DESKTOP-28KGODE', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\HOMEPC~1\AppData\Local\Temp\scoped_dir14888_22821}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=91.0.4472.77, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 98d8f8f86f6aa29d511ae53550fa1a5e 
+2021-06-05 15:49:52,986 ERROR [TestRunner] Navigate to New Booking shipment Failed 
+2021-06-05 15:49:52,987 INFO  [TestRunner] C:\Users\Home PC\MLT_PP_GIT\Testautomation_selenium_Web_PP\screenshots\Failed\TC_1000_154952_05062021.png 
+2021-06-05 15:49:53,764 INFO  [TestRunner] TC_1000 Failed 
+2021-06-05 15:49:54,296 INFO  [TestRunner] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-06-05 15:49:54,297 INFO  [TestRunner] X 
+2021-06-05 15:49:54,300 ERROR [TestRunner] Class Utils | Method getCellData | Exception desc : null 
+2021-06-05 15:52:37,649 INFO  [TestRunner] iTotalTestCases 116 
+2021-06-05 15:52:37,650 INFO  [TestRunner] Executing all test cases  
+2021-06-05 15:52:37,660 ERROR [TestRunner] Class Utils | Method getCellData | Exception desc : null 
+2021-06-05 15:52:37,660 ERROR [TestRunner] Class Utils | Method getCellData | Exception desc : null 
+2021-06-05 15:52:37,661 ERROR [TestRunner] Class Utils | Method getCellData | Exception desc : null 
+2021-06-05 15:52:37,661 ERROR [TestRunner] Class Utils | Method getCellData | Exception desc : null 
+2021-06-05 15:52:37,661 INFO  [TestRunner] RunMode for test case TC_1000 is Yes 
+2021-06-05 15:52:37,665 INFO  [TestRunner] **************************************************************************************** 
+2021-06-05 15:52:37,665 INFO  [TestRunner] **************************************************************************************** 
+2021-06-05 15:52:37,665 INFO  [TestRunner] -------------------------- TC_1000--------------------------- 
+2021-06-05 15:52:37,665 INFO  [TestRunner] **************************************************************************************** 
+2021-06-05 15:52:37,665 INFO  [TestRunner] **************************************************************************************** 
+2021-06-05 15:52:37,667 INFO  [TestRunner] Executing Yes run mode test case TC_1000 
+2021-06-05 15:52:37,697 INFO  [TestRunner] iTestStep 2631 
+2021-06-05 15:52:37,698 INFO  [TestRunner] iTestLastStep 30 
+2021-06-05 15:52:37,698 INFO  [TestActions] Opening Browser 
+2021-06-05 15:52:44,718 INFO  [TestActions] Opening Browser Success 
+2021-06-05 15:52:44,718 INFO  [TestRunner] Executing TestStep 2631 
+2021-06-05 15:52:44,769 INFO  [TestActions] Before goToURL in Login 
+2021-06-05 15:53:01,235 INFO  [TestActions] Locator Property=Xpath;//*[@id="usernameInput"] 
+2021-06-05 15:53:01,236 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:53:01,236 INFO  [TestActions] locatorValue = //*[@id="usernameInput"] 
+2021-06-05 15:53:01,236 INFO  [TestActions] locator = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:53:01,236 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:53:01,261 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:53:01,262 INFO  [TestActions] Waiting for the Element to visible... 
+2021-06-05 15:53:01,262 INFO  [TestActions] Locator Property=Xpath;//*[@id="usernameInput"] 
+2021-06-05 15:53:01,262 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:53:01,262 INFO  [TestActions] locatorValue = //*[@id="usernameInput"] 
+2021-06-05 15:53:01,262 INFO  [TestActions] locator = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:53:01,262 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:53:01,283 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:53:01,306 INFO  [TestActions] Entering the text in txtbx_UsernameLogin in Login  
+2021-06-05 15:53:01,306 INFO  [TestActions] Waiting for the Element to visible... 
+2021-06-05 15:53:01,306 INFO  [TestActions] Locator Property=Xpath;//*[@id="usernameInput"] 
+2021-06-05 15:53:01,306 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:53:01,306 INFO  [TestActions] locatorValue = //*[@id="usernameInput"] 
+2021-06-05 15:53:01,306 INFO  [TestActions] locator = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:53:01,306 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:53:01,332 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:53:01,348 INFO  [TestActions] Locator Property=Xpath;//*[@id="usernameInput"] 
+2021-06-05 15:53:01,348 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:53:01,348 INFO  [TestActions] locatorValue = //*[@id="usernameInput"] 
+2021-06-05 15:53:01,348 INFO  [TestActions] locator = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:53:01,348 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:53:01,364 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:53:01,364 INFO  [TestActions] element found for  txtbx_UsernameLogin 
+2021-06-05 15:53:01,364 INFO  [TestActions] Element Found. Entering value of txtbx_UsernameLogin i= SMU262 
+2021-06-05 15:53:01,365 INFO  [TestActions] Locator Property=Xpath;//*[@id="usernameInput"] 
+2021-06-05 15:53:01,365 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:53:01,365 INFO  [TestActions] locatorValue = //*[@id="usernameInput"] 
+2021-06-05 15:53:01,365 INFO  [TestActions] locator = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:53:01,365 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:53:01,379 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id="usernameInput"] 
+2021-06-05 15:53:02,506 INFO  [TestActions] Entered SMU262 value in txtbx_UsernameLogin 
+2021-06-05 15:53:02,506 INFO  [TestActions] Locator Property=Xpath;//input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:53:02,506 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:53:02,506 INFO  [TestActions] locatorValue = //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:53:02,506 INFO  [TestActions] locator = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:53:02,506 INFO  [TestActions] Locator in get object method = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:53:02,537 INFO  [TestActions] Able to find the element for BY = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:53:02,538 INFO  [TestActions] Waiting for the Element to visible... 
+2021-06-05 15:53:02,538 INFO  [TestActions] Locator Property=Xpath;//input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:53:02,538 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:53:02,538 INFO  [TestActions] locatorValue = //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:53:02,538 INFO  [TestActions] locator = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:53:02,538 INFO  [TestActions] Locator in get object method = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:53:02,561 INFO  [TestActions] Able to find the element for BY = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:53:02,599 INFO  [TestActions] Entering the text in txtbx_PasswordLogin in Login 
+2021-06-05 15:53:02,599 INFO  [TestActions] Waiting for the Element to visible... 
+2021-06-05 15:53:02,599 INFO  [TestActions] Locator Property=Xpath;//input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:53:02,599 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:53:02,599 INFO  [TestActions] locatorValue = //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:53:02,599 INFO  [TestActions] locator = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:53:02,599 INFO  [TestActions] Locator in get object method = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:53:02,623 INFO  [TestActions] Able to find the element for BY = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:53:02,637 INFO  [TestActions] Locator Property=Xpath;//input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:53:02,637 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:53:02,638 INFO  [TestActions] locatorValue = //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:53:02,638 INFO  [TestActions] locator = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:53:02,638 INFO  [TestActions] Locator in get object method = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:53:02,653 INFO  [TestActions] Able to find the element for BY = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:53:02,654 INFO  [TestActions] element found for  txtbx_PasswordLogin 
+2021-06-05 15:53:02,654 INFO  [TestActions] Element Found. Entering value of txtbx_PasswordLogin i= Maersk#2 
+2021-06-05 15:53:02,654 INFO  [TestActions] Locator Property=Xpath;//input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:53:02,654 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:53:02,654 INFO  [TestActions] locatorValue = //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:53:02,654 INFO  [TestActions] locator = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:53:02,654 INFO  [TestActions] Locator in get object method = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:53:02,669 INFO  [TestActions] Able to find the element for BY = By.xpath: //input[contains(@id,'password') or contains(@id,'passwordInput')] 
+2021-06-05 15:53:03,809 INFO  [TestActions] Entered Maersk#2 value in txtbx_PasswordLogin 
+2021-06-05 15:53:03,809 INFO  [TestActions] Clicking on btn_Login_PP in Login 
+2021-06-05 15:53:03,809 INFO  [TestActions] Waiting for the Element to visible... 
+2021-06-05 15:53:03,809 INFO  [TestActions] Locator Property=Xpath;//*[@id="login-form"]/button 
+2021-06-05 15:53:03,809 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:53:03,809 INFO  [TestActions] locatorValue = //*[@id="login-form"]/button 
+2021-06-05 15:53:03,809 INFO  [TestActions] locator = By.xpath: //*[@id="login-form"]/button 
+2021-06-05 15:53:03,809 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id="login-form"]/button 
+2021-06-05 15:53:03,841 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id="login-form"]/button 
+2021-06-05 15:53:03,870 INFO  [TestActions] Locator Property=Xpath;//*[@id="login-form"]/button 
+2021-06-05 15:53:03,870 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:53:03,870 INFO  [TestActions] locatorValue = //*[@id="login-form"]/button 
+2021-06-05 15:53:03,870 INFO  [TestActions] locator = By.xpath: //*[@id="login-form"]/button 
+2021-06-05 15:53:03,870 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id="login-form"]/button 
+2021-06-05 15:53:03,894 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id="login-form"]/button 
+2021-06-05 15:53:03,947 INFO  [TestActions] Clicked on btn_Login_PP in Login Success 
+2021-06-05 15:53:05,949 INFO  [TestActions] Waiting for the Element to visible... 
+2021-06-05 15:53:05,949 INFO  [TestActions] Locator Property=Xpath;//*[@id='customerCode'] 
+2021-06-05 15:53:05,949 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:53:05,949 INFO  [TestActions] locatorValue = //*[@id='customerCode'] 
+2021-06-05 15:53:05,949 INFO  [TestActions] locator = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:53:05,949 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:53:06,256 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:53:06,855 INFO  [TestActions] Locator Property=Xpath;//*[@id='customerCode'] 
+2021-06-05 15:53:06,855 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:53:06,855 INFO  [TestActions] locatorValue = //*[@id='customerCode'] 
+2021-06-05 15:53:06,855 INFO  [TestActions] locator = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:53:06,855 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:53:06,875 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:53:06,876 INFO  [TestActions] Waiting for the Element to visible... 
+2021-06-05 15:53:06,876 INFO  [TestActions] Locator Property=Xpath;//*[@id='customerCode'] 
+2021-06-05 15:53:06,876 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:53:06,876 INFO  [TestActions] locatorValue = //*[@id='customerCode'] 
+2021-06-05 15:53:06,876 INFO  [TestActions] locator = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:53:06,876 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:53:06,890 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:53:06,905 INFO  [TestActions] Entering the text in txtbx_Code in Login 
+2021-06-05 15:53:06,905 INFO  [TestActions] Waiting for the Element to visible... 
+2021-06-05 15:53:06,906 INFO  [TestActions] Locator Property=Xpath;//*[@id='customerCode'] 
+2021-06-05 15:53:06,906 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:53:06,906 INFO  [TestActions] locatorValue = //*[@id='customerCode'] 
+2021-06-05 15:53:06,906 INFO  [TestActions] locator = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:53:06,906 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:53:06,921 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:53:06,936 INFO  [TestActions] Locator Property=Xpath;//*[@id='customerCode'] 
+2021-06-05 15:53:06,936 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:53:06,936 INFO  [TestActions] locatorValue = //*[@id='customerCode'] 
+2021-06-05 15:53:06,936 INFO  [TestActions] locator = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:53:06,936 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:53:06,952 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:53:06,952 INFO  [TestActions] element found for  txtbx_Code 
+2021-06-05 15:53:06,953 INFO  [TestActions] Element Found. Entering value of txtbx_Code i= 10000007951 
+2021-06-05 15:53:06,953 INFO  [TestActions] Locator Property=Xpath;//*[@id='customerCode'] 
+2021-06-05 15:53:06,953 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:53:06,953 INFO  [TestActions] locatorValue = //*[@id='customerCode'] 
+2021-06-05 15:53:06,953 INFO  [TestActions] locator = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:53:06,953 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:53:06,968 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id='customerCode'] 
+2021-06-05 15:53:08,138 INFO  [TestActions] Entered 10000007951 value in txtbx_Code 
+2021-06-05 15:53:08,138 INFO  [TestActions] Clicking on Maersk_SSP_btn_Submit_PP in Login 
+2021-06-05 15:53:08,138 INFO  [TestActions] Waiting for the Element to visible... 
+2021-06-05 15:53:08,138 INFO  [TestActions] Locator Property=Xpath;//*[@id='set-customer-code-form']/button 
+2021-06-05 15:53:08,138 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:53:08,138 INFO  [TestActions] locatorValue = //*[@id='set-customer-code-form']/button 
+2021-06-05 15:53:08,138 INFO  [TestActions] locator = By.xpath: //*[@id='set-customer-code-form']/button 
+2021-06-05 15:53:08,138 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id='set-customer-code-form']/button 
+2021-06-05 15:53:08,170 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id='set-customer-code-form']/button 
+2021-06-05 15:53:08,219 INFO  [TestActions] Locator Property=Xpath;//*[@id='set-customer-code-form']/button 
+2021-06-05 15:53:08,220 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:53:08,220 INFO  [TestActions] locatorValue = //*[@id='set-customer-code-form']/button 
+2021-06-05 15:53:08,220 INFO  [TestActions] locator = By.xpath: //*[@id='set-customer-code-form']/button 
+2021-06-05 15:53:08,220 INFO  [TestActions] Locator in get object method = By.xpath: //*[@id='set-customer-code-form']/button 
+2021-06-05 15:53:08,241 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[@id='set-customer-code-form']/button 
+2021-06-05 15:53:08,283 INFO  [TestActions] Clicked on Maersk_SSP_btn_Submit_PP in Login Success 
+2021-06-05 15:53:18,286 INFO  [TestActions] Before Verifying  in  
+2021-06-05 15:53:18,509 INFO  [TestRunner] Login to the  MYML with valid credentials Passed 
+2021-06-05 15:53:20,290 INFO  [TestRunner] Executing TestStep 2632 
+2021-06-05 15:53:20,293 INFO  [TestActions] Locator Property=Xpath;(//*[@class="ign-header__container"])//div[2] 
+2021-06-05 15:53:20,293 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:53:20,293 INFO  [TestActions] locatorValue = (//*[@class="ign-header__container"])//div[2] 
+2021-06-05 15:53:20,293 INFO  [TestActions] locator = By.xpath: (//*[@class="ign-header__container"])//div[2] 
+2021-06-05 15:53:20,293 INFO  [TestActions] Locator in get object method = By.xpath: (//*[@class="ign-header__container"])//div[2] 
+2021-06-05 15:53:20,332 INFO  [TestActions] Able to find the element for BY = By.xpath: (//*[@class="ign-header__container"])//div[2] 
+2021-06-05 15:53:20,332 INFO  [TestActions] Locator Property=Xpath;//*[ @class='ign-header__menu__link  ign-track' and contains(text(),'New booking')] 
+2021-06-05 15:53:20,332 INFO  [TestActions] locatorType = Xpath 
+2021-06-05 15:53:20,332 INFO  [TestActions] locatorValue = //*[ @class='ign-header__menu__link  ign-track' and contains(text(),'New booking')] 
+2021-06-05 15:53:20,332 INFO  [TestActions] locator = By.xpath: //*[ @class='ign-header__menu__link  ign-track' and contains(text(),'New booking')] 
+2021-06-05 15:53:20,332 INFO  [TestActions] Locator in get object method = By.xpath: //*[ @class='ign-header__menu__link  ign-track' and contains(text(),'New booking')] 
+2021-06-05 15:53:20,354 INFO  [TestActions] Able to find the element for BY = By.xpath: //*[ @class='ign-header__menu__link  ign-track' and contains(text(),'New booking')] 
+2021-06-05 15:53:25,565 ERROR [TestActions] Not able to click. Exception =  element not visible
+  (Session info: chrome=91.0.4472.77)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.19041 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 75 milliseconds
+Build info: version: '3.0.0', revision: '350cf60', time: '2016-10-13 10:48:57 -0700'
+System info: host: 'DESKTOP-28KGODE', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\HOMEPC~1\AppData\Local\Temp\scoped_dir6152_9702}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=91.0.4472.77, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 5df83a86c693068b4841c1ddc73e7aa1 
+2021-06-05 15:53:25,565 ERROR [TestRunner] Navigate to New Booking shipment Failed 
+2021-06-05 15:53:25,565 INFO  [TestRunner] C:\Users\Home PC\MLT_PP_GIT\Testautomation_selenium_Web_PP\screenshots\Failed\TC_1000_155325_05062021.png 
+2021-06-05 15:53:26,282 INFO  [TestRunner] TC_1000 Failed 
+2021-06-05 15:53:26,779 INFO  [TestRunner] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-06-05 15:53:26,779 INFO  [TestRunner] X 
+2021-06-05 15:53:26,782 ERROR [TestRunner] Class Utils | Method getCellData | Exception desc : null 
