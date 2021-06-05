@@ -1,0 +1,116 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>MLIT_PortalKDF</groupId>
+  <artifactId>MLIT_PortalKDF</artifactId>
+  <packaging>jar</packaging>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>MLIT_PortalKDF</name>
+  	<url>http://maven.apache.org</url>
+	<properties>
+		<deltaspike.version>1.5.0</deltaspike.version>
+	</properties>
+<dependencyManagement>
+    <dependencies>
+        <dependency>
+	<groupId>org.apache.deltaspike.distribution</groupId>
+	<artifactId>distributions-bom</artifactId>
+	<version>1.6.0</version>
+            <type>pom</type>
+            <scope>import</scope>
+        </dependency>
+    </dependencies>
+</dependencyManagement>
+	<dependencies>
+	<dependency>
+	<groupId>javax.enterprise</groupId>
+	<artifactId>cdi-api</artifactId>
+	<version>1.2</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi-ooxml</artifactId>
+    <version>3.13</version>
+</dependency>
+	
+		<dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>selenium-java</artifactId>
+			<version>2.53.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>htmlunit-driver</artifactId>
+			<version>2.20</version>
+		</dependency>
+		<dependency>
+	<groupId>org.testng</groupId>
+	<artifactId>testng</artifactId>
+	<version>6.9.9</version>
+</dependency>
+
+		<dependency>
+			<groupId>com.relevantcodes</groupId>
+			<artifactId>extentreports</artifactId>
+			<version>2.40.2</version>
+		</dependency>
+
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.17</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.apache.deltaspike.core</groupId>
+			<artifactId>deltaspike-core-api</artifactId>
+			<version>1.6.0</version>
+		</dependency>
+		<!-- <dependency>
+			<groupId>org.apache.deltaspike.core</groupId>
+			<artifactId>core-project</artifactId>
+				<version>1.6.0</version>
+		</dependency> -->
+		<dependency>
+			<groupId>org.apache.deltaspike.core</groupId>
+			<artifactId>deltaspike-core-impl</artifactId>
+			<version>1.6.0</version>
+		</dependency>
+		<dependency>
+	<groupId>org.apache.deltaspike.core</groupId>
+	<artifactId>integration-test</artifactId>
+	<version>0.1-incubating</version>
+	</dependency>
+	</dependencies>
+	<build>
+	<!-- <sourceDirectory>src</sourceDirectory> -->
+		<plugins>
+			<plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>2.14.1</version>
+                <configuration>
+                <includes>
+            <include>Config.java</include>
+            <include>Constants.java</include>
+            <include>TestActions.java</include>
+            <include>TestRunner.java</include>
+            <include>ExcelReader.java</include>
+            <include>Log.java</include>
+          </includes>
+          <!-- Suite testng xml file to consider for test execution -->
+          <suiteXmlFiles>
+           <suiteXmlFile>testng.xml</suiteXmlFile>
+           </suiteXmlFiles>
+                </configuration>
+            </plugin>
+			<plugin>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>1.7</source>
+                    <target>1.7</target>
+                </configuration>
+            </plugin>
+      </plugins>
+  </build>
+</project>

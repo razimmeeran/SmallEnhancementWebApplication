@@ -1,0 +1,140 @@
+2016-09-27 18:47:50,451 INFO  [Log] Opening Browser 
+2016-09-27 18:47:51,924 INFO  [Log] RunMode for test case TC_001_MDO Login is Yes 
+2016-09-27 18:47:51,929 INFO  [Log] **************************************************************************************** 
+2016-09-27 18:47:51,929 INFO  [Log] **************************************************************************************** 
+2016-09-27 18:47:51,929 INFO  [Log] -------------------------- TC_001_MDO Login--------------------------- 
+2016-09-27 18:47:51,929 INFO  [Log] **************************************************************************************** 
+2016-09-27 18:47:51,929 INFO  [Log] **************************************************************************************** 
+2016-09-27 18:47:51,961 INFO  [Log] Executing null which is (1) line of Test Steps sheet 
+2016-09-27 18:47:51,961 INFO  [Log] Navigating to the site 
+2016-09-27 18:47:56,930 INFO  [Log] Navigate to SSP Passed 
+2016-09-27 18:47:57,157 INFO  [Log] Executing Navigate to SSP which is (2) line of Test Steps sheet 
+2016-09-27 18:47:57,157 INFO  [Log] Clicking on Web Element SspLogin 
+2016-09-27 18:48:03,402 INFO  [Log] click on login button Passed 
+2016-09-27 18:48:03,507 INFO  [Log] Executing click on login button which is (3) line of Test Steps sheet 
+2016-09-27 18:48:03,508 INFO  [Log] Enetering value toint4Username textbox field  
+2016-09-27 18:48:03,604 INFO  [Log] Enter INT4 Username Passed 
+2016-09-27 18:48:03,704 INFO  [Log] Executing Enter INT4 Username which is (4) line of Test Steps sheet 
+2016-09-27 18:48:03,704 INFO  [Log] Enetering value toint4Password textbox field  
+2016-09-27 18:48:03,773 INFO  [Log] Enter INT4 Password Passed 
+2016-09-27 18:48:03,829 INFO  [Log] Executing Enter INT4 Password which is (5) line of Test Steps sheet 
+2016-09-27 18:48:03,830 INFO  [Log] Clicking on Web Element int4LogButton 
+2016-09-27 18:48:20,561 INFO  [Log] Click on Logon button Passed 
+2016-09-27 18:48:20,639 INFO  [Log] Executing Click on Logon button which is (6) line of Test Steps sheet 
+2016-09-27 18:48:20,639 INFO  [Log] Navigating to the site 
+2016-09-27 18:48:22,008 INFO  [Log] Navigate to SSP Dashboard page Passed 
+2016-09-27 18:48:22,061 INFO  [Log] Executing Navigate to SSP Dashboard page which is (7) line of Test Steps sheet 
+2016-09-27 18:48:22,061 INFO  [Log] Waiting for the page to load... 
+2016-09-27 18:48:27,062 INFO  [Log] wait for page load Passed 
+2016-09-27 18:48:27,148 INFO  [Log] Executing wait for page load which is (8) line of Test Steps sheet 
+2016-09-27 18:48:27,148 INFO  [Log] Enetering value toCustomerCode textbox field  
+2016-09-27 18:48:27,206 INFO  [Log] Enter customer code Passed 
+2016-09-27 18:48:27,252 INFO  [Log] Executing Enter customer code which is (9) line of Test Steps sheet 
+2016-09-27 18:48:27,252 INFO  [Log] Clicking on Web Element btn_Select 
+2016-09-27 18:49:09,023 INFO  [Log] Click on Select button Passed 
+2016-09-27 18:49:09,114 INFO  [Log] Executing Click on Select button which is (10) line of Test Steps sheet 
+2016-09-27 18:49:09,114 INFO  [Log] Waiting for the page to load... 
+2016-09-27 18:49:14,114 INFO  [Log] wait for page load Passed 
+2016-09-27 18:49:14,180 INFO  [Log] Executing wait for page load which is (11) line of Test Steps sheet 
+2016-09-27 18:49:14,180 INFO  [Log] Navigating to the site 
+2016-09-27 18:49:21,557 INFO  [Log] Navigate to MDO Page Passed 
+2016-09-27 18:49:21,623 INFO  [Log] Executing Navigate to MDO Page which is (12) line of Test Steps sheet 
+2016-09-27 18:49:21,623 INFO  [Log] Waiting for the page to load... 
+2016-09-27 18:49:26,624 INFO  [Log] wait for page load Passed 
+2016-09-27 18:49:26,693 INFO  [Log] TC_001_MDO Login passed 
+2016-09-27 18:49:26,740 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-27 18:49:26,740 INFO  [Log] X 
+2016-09-27 18:49:26,940 INFO  [Log] RunMode for test case TC_002_Verifying Allinbound Text is Yes 
+2016-09-27 18:49:26,940 INFO  [Log] **************************************************************************************** 
+2016-09-27 18:49:26,940 INFO  [Log] **************************************************************************************** 
+2016-09-27 18:49:26,940 INFO  [Log] -------------------------- TC_002_Verifying Allinbound Text--------------------------- 
+2016-09-27 18:49:26,940 INFO  [Log] **************************************************************************************** 
+2016-09-27 18:49:26,940 INFO  [Log] **************************************************************************************** 
+2016-09-27 18:49:26,949 INFO  [Log] Executing wait for page load which is (13) line of Test Steps sheet 
+2016-09-27 18:49:26,949 INFO  [Log] Verifying element prescence AllInbound_text 
+2016-09-27 18:49:26,982 INFO  [Log] Verifying Text on MDO page Passed 
+2016-09-27 18:49:27,028 INFO  [Log] TC_002_Verifying Allinbound Text passed 
+2016-09-27 18:49:27,079 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-27 18:49:27,079 INFO  [Log] X 
+2016-09-27 18:49:27,111 INFO  [Log] RunMode for test case TC_008_ValidateContainerDetails is Yes 
+2016-09-27 18:49:27,111 INFO  [Log] **************************************************************************************** 
+2016-09-27 18:49:27,111 INFO  [Log] **************************************************************************************** 
+2016-09-27 18:49:27,111 INFO  [Log] -------------------------- TC_008_ValidateContainerDetails--------------------------- 
+2016-09-27 18:49:27,111 INFO  [Log] **************************************************************************************** 
+2016-09-27 18:49:27,111 INFO  [Log] **************************************************************************************** 
+2016-09-27 18:49:27,119 INFO  [Log] Executing Verifying Text on MDO page which is (18) line of Test Steps sheet 
+2016-09-27 18:49:27,148 INFO  [Log] Checking elements prescence Passed 
+2016-09-27 18:49:27,188 INFO  [Log] Executing Checking elements prescence which is (19) line of Test Steps sheet 
+2016-09-27 18:49:27,208 INFO  [Log] Clicking on show details link Passed 
+2016-09-27 18:49:27,255 INFO  [Log] Executing Clicking on show details link which is (20) line of Test Steps sheet 
+2016-09-27 18:49:27,255 INFO  [Log] Verifying element prescence lbl_bolconta2 
+2016-09-27 18:49:29,357 INFO  [Log] Verifying Container Text Passed 
+2016-09-27 18:49:29,398 INFO  [Log] Executing Verifying Container Text which is (21) line of Test Steps sheet 
+2016-09-27 18:49:29,398 INFO  [Log] Verifying element prescence lbl_bolcontaNum2 
+2016-09-27 18:49:29,432 INFO  [Log] Verifying container Number Passed 
+2016-09-27 18:49:29,472 INFO  [Log] Executing Verifying container Number which is (22) line of Test Steps sheet 
+2016-09-27 18:49:29,501 INFO  [Log] Verifying showalllink presence Passed 
+2016-09-27 18:49:29,541 INFO  [Log] Executing Verifying showalllink presence which is (23) line of Test Steps sheet 
+2016-09-27 18:49:29,558 INFO  [Log] Clicking on show all link Passed 
+2016-09-27 18:49:29,597 INFO  [Log] Executing Clicking on show all link which is (24) line of Test Steps sheet 
+2016-09-27 18:49:30,349 INFO  [Log] Verifying container number presence in alert Passed 
+2016-09-27 18:49:30,416 INFO  [Log] Executing Verifying container number presence in alert which is (25) line of Test Steps sheet 
+2016-09-27 18:49:30,416 INFO  [Log] Verifying element prescence lbl_contNum2_alert 
+2016-09-27 18:49:30,491 INFO  [Log] Verifying container number in alert Passed 
+2016-09-27 18:49:30,543 INFO  [Log] Executing Verifying container number in alert which is (26) line of Test Steps sheet 
+2016-09-27 18:49:30,597 INFO  [Log] Verifying close link in alert Passed 
+2016-09-27 18:49:30,647 INFO  [Log] Executing Verifying close link in alert which is (27) line of Test Steps sheet 
+2016-09-27 18:49:30,647 INFO  [Log] Clicking on Web Element lnk_contClose 
+2016-09-27 18:49:35,695 INFO  [Log] Closing cotainer popup alert Passed 
+2016-09-27 18:49:35,779 INFO  [Log] TC_008_ValidateContainerDetails passed 
+2016-09-27 18:49:35,832 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-27 18:49:35,832 INFO  [Log] X 
+2016-09-27 18:49:35,855 INFO  [Log] RunMode for test case TC_005_Navigate Contianer View is Yes 
+2016-09-27 18:49:35,855 INFO  [Log] **************************************************************************************** 
+2016-09-27 18:49:35,855 INFO  [Log] **************************************************************************************** 
+2016-09-27 18:49:35,855 INFO  [Log] -------------------------- TC_005_Navigate Contianer View--------------------------- 
+2016-09-27 18:49:35,855 INFO  [Log] **************************************************************************************** 
+2016-09-27 18:49:35,855 INFO  [Log] **************************************************************************************** 
+2016-09-27 18:49:35,859 INFO  [Log] Executing Closing cotainer popup alert which is (14) line of Test Steps sheet 
+2016-09-27 18:49:35,859 INFO  [Log] Navigating to the site 
+2016-09-27 18:49:35,877 INFO  [Log] Navigating to Cotainer page Passed 
+2016-09-27 18:49:35,923 INFO  [Log] Executing Navigating to Cotainer page which is (15) line of Test Steps sheet 
+2016-09-27 18:49:35,923 INFO  [Log] Waiting for the page to load... 
+2016-09-27 18:49:40,924 INFO  [Log] wait for page load Passed 
+2016-09-27 18:49:40,987 INFO  [Log] TC_005_Navigate Contianer View passed 
+2016-09-27 18:49:41,029 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-27 18:49:41,029 INFO  [Log] X 
+2016-09-27 18:49:41,055 INFO  [Log] RunMode for test case TC_006_Expand Contianer View is Yes 
+2016-09-27 18:49:41,055 INFO  [Log] **************************************************************************************** 
+2016-09-27 18:49:41,055 INFO  [Log] **************************************************************************************** 
+2016-09-27 18:49:41,055 INFO  [Log] -------------------------- TC_006_Expand Contianer View--------------------------- 
+2016-09-27 18:49:41,055 INFO  [Log] **************************************************************************************** 
+2016-09-27 18:49:41,055 INFO  [Log] **************************************************************************************** 
+2016-09-27 18:49:41,060 INFO  [Log] Executing wait for page load which is (16) line of Test Steps sheet 
+2016-09-27 18:49:41,060 INFO  [Log] Clicking on Web Element lnk_showdetails1 
+2016-09-27 18:49:46,116 INFO  [Log] Clicking on show details link Passed 
+2016-09-27 18:49:46,198 INFO  [Log] Executing Clicking on show details link which is (17) line of Test Steps sheet 
+2016-09-27 18:49:51,199 INFO  [Log] Verifying element prescence cardcount_showdeatils 
+2016-09-27 18:49:51,252 INFO  [Log] Size of Cards under show details 8 
+2016-09-27 18:49:51,252 INFO  [Log] Expected couont8equal to Acutal count 8 
+2016-09-27 18:49:51,253 INFO  [Log] Verifying Cards view under show details Passed 
+2016-09-27 18:49:51,318 INFO  [Log] TC_006_Expand Contianer View passed 
+2016-09-27 18:49:51,362 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-27 18:49:51,362 INFO  [Log] X 
+2016-09-27 18:49:51,383 INFO  [Log] RunMode for test case  is  
+2016-09-27 18:49:51,383 INFO  [Log] RunMode for test case  is  
+2016-09-27 18:49:51,383 INFO  [Log] RunMode for test case  is  
+2016-09-27 18:49:51,383 INFO  [Log] RunMode for test case  is  
+2016-09-27 18:49:51,383 INFO  [Log] RunMode for test case  is  
+2016-09-27 18:49:51,383 INFO  [Log] RunMode for test case  is  
+2016-09-27 18:49:51,384 INFO  [Log] RunMode for test case  is  
+2016-09-27 18:49:51,384 INFO  [Log] RunMode for test case  is  
+2016-09-27 18:49:51,384 INFO  [Log] RunMode for test case  is  
+2016-09-27 18:49:51,384 INFO  [Log] RunMode for test case  is  
+2016-09-27 18:49:51,384 INFO  [Log] RunMode for test case  is  
+2016-09-27 18:49:51,384 INFO  [Log] RunMode for test case  is  
+2016-09-27 18:49:51,384 INFO  [Log] RunMode for test case  is  
+2016-09-27 18:49:51,384 INFO  [Log] RunMode for test case  is  
+2016-09-27 18:49:51,384 INFO  [Log] RunMode for test case  is  
+2016-09-27 18:49:51,384 INFO  [Log] RunMode for test case  is  
+2016-09-27 18:49:51,384 INFO  [Log] RunMode for test case  is  

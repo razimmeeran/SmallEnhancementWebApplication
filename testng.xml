@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite thread-count="1" name="Regression suite" verbose="1" >
+<listeners>
+        <listener class-name="net.apmoller.crb.portal.executionEngine.RetryListenerClass"/>
+  </listeners>
+<test name="SSP Automation">
+       <parameter name="Browser" value="Chrome"  />
+       <parameter name="GridURL" value="automation_hub"  />
+       <parameter name="Execution" value="Local"  />
+       <parameter name="Brand" value="MaerskLine" />
+       <parameter name="ENV" value="PP"  />
+       <parameter name="Url" value="https://my-demo.maerskline.com" />
+       <parameter name="userName" value="Websecurity"  />
+       <parameter name="Password" value="ML1TXc3pt10N"  />         
+       <parameter name="customerCode" value="10000007951"  /> 
+     
+      <classes>
+        <class name="net.apmoller.crb.portal.executionEngine.TestRunner"/>
+        <class name="net.apmoller.crb.portal.utils.ExcelReader"/>
+      </classes>
+  </test>   
+</suite>
+
+
+
