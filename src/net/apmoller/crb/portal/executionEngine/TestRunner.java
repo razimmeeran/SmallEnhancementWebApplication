@@ -131,9 +131,9 @@ public class TestRunner  {
 	@Parameters({"browserType"})
 	public void beforeSuite(String broswer) throws Exception
 	{
-		//htmlReport = ExtentManager.getReporter(System.getProperty("user.dir")+"\\Reports\\Report.html");	
-		String timeStamp = new SimpleDateFormat("MMddyyyy_HHmmss").format(Calendar.getInstance().getTime());
-		htmlReport = ExtentManager.getReporter(System.getProperty("user.dir") + File.separator+ "Reports" + File.separator+ "Report"+timeStamp+".html");
+		htmlReport = ExtentManager.getReporter(System.getProperty("user.dir")+"\\Reports\\Report.html");	
+		//String timeStamp = new SimpleDateFormat("MMddyyyy_HHmmss").format(Calendar.getInstance().getTime());
+		//htmlReport = ExtentManager.getReporter(System.getProperty("user.dir") + File.separator+ "Reports" + File.separator+ "Report"+timeStamp+".html");
 		/*htmlReport = ExtentManager.getReporter(System.getProperty("D:\\Reports\\Report"+timeStamp+".html"));*/
 		SimpleDateFormat formDate = new SimpleDateFormat("dd/MM/yyyy");
 
